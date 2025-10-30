@@ -13,7 +13,7 @@
 ⚡ Fun fact: I debug faster with music 🎧  
 
 ---
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
+<img src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif" width="50%" align="right" alt="Coding GIF"/>
 
 ---
 ### 🛠️ Tech Stack
